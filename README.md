@@ -1,5 +1,5 @@
 # NLW_01 ECOLETA discover 🟪
-Aplicação com intuito de direcionar pessoas com intenção de descarte de lixos e resíduos<br/>
+Aplicação com intuito de ajudar você a descartar seu lixo de forma certa e bem perto de você.<br/>
 
 ## PÁGINAS 📃
 <p>Index</p>
