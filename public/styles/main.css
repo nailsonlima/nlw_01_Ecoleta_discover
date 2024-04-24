@@ -1,0 +1,37 @@
+:root {
+    --title-color: #322153;
+    --primary-color: #34cb79;
+    --bg-color-input: #f0f0f5;
+    --text-color-input-modal: #6c6c80;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-family: Roboto, sans-serif;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+  body {
+    background: #ecf8ec;
+  }
+  
+  h1,h2,h3,h4,h5,h6 {
+    font-family: Helvetica, sans-serif;
+    color: var(--title-color);
+  }
+  
+  #page-home header {
+    margin-top: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  
