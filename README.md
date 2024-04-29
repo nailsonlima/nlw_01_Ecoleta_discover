@@ -1,7 +1,7 @@
-# NLW_01 ECOLETA discover 🟪
+# NLW_01 ECOLETA discover❤
 Aplicação com intuito de ajudar você a descartar seu lixo de forma certa e bem perto de você.<br/>
 
-## PÁGINAS 📃
+## 📃 PÁGINAS:
 <p>Index</p>
 <img width='70%' src="./assets/forgit/index.png"/>
 <p>Modal: Página responsável por realizar a pesquisa dos pontos de coleta (pesquisa por cidade)</p>
@@ -21,12 +21,11 @@ Aplicação com intuito de ajudar você a descartar seu lixo de forma certa e be
 
 ## ✒️ Autores
 
-* **Nailson** - [desenvolvedor](https://github.com/nailsonlima)
+* **Nailson** - [Dev](https://github.com/nailsonlima)
 
 ## 🎁 Expressões de gratidão
 
-* Obrigado pelo seu tempo e apoio!
-* Espero ter sido útil!❤
+* Obrigado pelo seu tempo!
 
 ---
-Feito com ❤️ por [Nailson Lima](https://gist.github.com/nailsonlima) 😊
+Feito com ❤️ por [Nailson Lima](https://gist.github.com/nailsonlima)
